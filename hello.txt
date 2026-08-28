@@ -1,0 +1,1 @@
+Hello Teacher! This file was uploaded completely offline using LocalStack and Terraform.
